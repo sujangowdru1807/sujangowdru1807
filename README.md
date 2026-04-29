@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="400"/>
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="250"/>
 </p>
 
-<span style="color: blue:">Sujan M</span>
+<span style="color: pink:">Sujan M</span>
 
 
 # 💫 About Me:
