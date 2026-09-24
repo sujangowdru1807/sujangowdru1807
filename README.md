@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-💻 Computer Science & Engineering student at Sahyadri College of Engineering and Management, Mangaluru.<br>⚙️ Hands-on experience with AI, IoT systems, embedded devices, and full-stack development.<br>🚀 Product developer – building a scalable LMS platform.<br>🛰️ Product developer at Agnihotri Aerospace – contributed to rocket design and avionics.<br>🛵 Creator of AeroWave – an AI-powered smart helmet for deaf riders.<br>📈 Achievements include multiple patent filings and national-level project recognition.<br>🌱 Continuously learning and innovating at the intersection of tech and problem-solving.
+💻 Computer Science & Engineering student at Vidyavardhaka college of Engineering, Mysore.<br>⚙️ Hands-on experience with AI, IoT systems, embedded devices, and full-stack development.<br>🚀 Product developer – building a scalable LMS platform.<br>🛰️ Product developer at Agnihotri Aerospace – contributed to rocket design and avionics.<br>🛵 Creator of AeroWave – an AI-powered smart helmet for deaf riders.<br>📈 Achievements include multiple patent filings and national-level project recognition.<br>🌱 Continuously learning and innovating at the intersection of tech and problem-solving.
 
 
 ## 🌐 Socials:
